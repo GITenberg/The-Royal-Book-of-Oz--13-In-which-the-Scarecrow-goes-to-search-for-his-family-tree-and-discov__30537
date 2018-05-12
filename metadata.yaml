@@ -1,0 +1,69 @@
+_repo: The-Royal-Book-of-Oz--13-In-which-the-Scarecrow-goes-to-search-for-his-family-tree-and-discov__30537
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Neill, John R. (John Rea)
+    alias: Neill, John Rea
+    birthdate: 1877
+    deathdate: 1943
+    gutenberg_agent_id: '26521'
+    url: http://www.gutenberg.org/2009/agents/26521
+    wikipedia: http://en.wikipedia.org/wiki/John_R._Neill
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Baum, L. Frank (Lyman Frank)
+    aliases:
+    - Bancroft, Laura
+    - Fitzgerald, Capt. Hugh
+    - Akers, Floyd
+    - Fitzgerald, Hugh
+    - Baum, Lyman Frank
+    - Cooke, John Estes
+    - Van Dyne, Edith
+    - Metcalf, Suzanne
+    birthdate: 1856
+    deathdate: 1919
+    gutenberg_agent_id: '42'
+    url: http://www.gutenberg.org/2009/agents/42
+    wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
+  - agent_name: Thompson, Ruth Plumly
+    birthdate: 1893
+    deathdate: 1976
+    gutenberg_agent_id: '34661'
+    url: http://www.gutenberg.org/2009/agents/34661
+description: "The Royal Book of Oz (1921) is the fifteenth in the series of Oz books,\
+  \ and the first by Ruth Plumly Thompson, to be written after L. Frank Baum's death.\
+  \ Although Baum was credited as the author, it was written entirely by Thompson.\
+  \ Beginning in the 1980s, some editions have correctly credited Thompson, although\
+  \ the cover of the 2001 edition by Dover Publications credits only Baum. The original\
+  \ introduction claimed that the book was based on notes by Baum, but this has been\
+  \ disproved. Baum's surviving notes, known as \"An Oz Book\"  are known from four\
+  \ typewritten pages found at his publisher's, but their authenticity as Baum's work\
+  \ has been disputed. Even if genuine, they bear no resemblance to Thompson's book.\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2009-11-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30537'
+  wikidata: Q7761670
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cowardly Lion (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Scarecrow (Fictitious character from Baum) -- Juvenile fiction'
+- !lcsh 'Kings and rulers -- Juvenile fiction'
+- !lcsh 'Oz (Imaginary place) -- Juvenile fiction'
+- !lcsh 'Fantasy literature'
+- !lcsh 'Gale, Dorothy (Fictitious character) -- Juvenile fiction'
+- !lcc 'PZ'
+title: "The Royal Book of Oz\r\nIn which the Scarecrow goes to search for his family\
+  \ tree and discovers that he is the Long Lost Emperor of the Silver Island"
+url: http://www.gutenberg.org/ebooks/30537
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Royal_Book_of_Oz
+- https://pt.wikipedia.org/wiki/The_Royal_Book_of_Oz
